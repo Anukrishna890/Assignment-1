@@ -1,2 +1,2 @@
-# Assignment-1
+# Mindteckpythontraining
 new repo
